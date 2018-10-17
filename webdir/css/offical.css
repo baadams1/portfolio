@@ -1,0 +1,14 @@
+#title{
+	text-align: center;
+}
+#name{
+	text-align: center;
+}
+#mainContent{
+	text-align: center;
+}
+@media only screen and (max-width: 900px) {
+	#mainContent{
+		display:none;
+	}
+}

@@ -7,7 +7,8 @@ $(document).ready(function() {
         			window.location.href='resume.html';
         }
         else{
-        		alert("enter guest@portfolio.com");
+        		alert("enter guest@portfolio.com password guest");
+				
         }
     }); 
 });
