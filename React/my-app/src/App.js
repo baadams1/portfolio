@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import ReactDOM from 'react-dom';
+//import logo from './logo.svg';	
 import './App.css';
 
 
@@ -32,6 +33,7 @@ class App extends Component {
 			<input type="password" class="form-control" id="password" aria-required="true" aria-invalid="true" required></input>
 		</div>
 		<button type="submit" id = "btnSubmit" class="btn btn-success">Sign In</button>
+					
         </header>
       </div>
 	  
